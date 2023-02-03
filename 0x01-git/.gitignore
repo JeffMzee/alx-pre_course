@@ -1,0 +1,2 @@
+#The gitignore file that does not track temporary emacs files.
+*~
